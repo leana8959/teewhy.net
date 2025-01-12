@@ -7,9 +7,9 @@ draft: false
 ---
 
 <div class="hx-mb-6">
-{{< hextra/hero-badge link="https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ?si=206e871ca20b4583">}}
+{{< hextra/hero-badge link="https://open.spotify.com/track/6CltzquypraYIlWFp48m1O?si=6f9b26f174234423">}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  On Repeat: The Kill - Maggie Rogers
+  On Repeat: Hypersonic Missiles - Sam Fender
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 </div>
