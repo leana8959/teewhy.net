@@ -13,7 +13,7 @@ Hey, thanks for stopping by! This is my personal blog. I initially started this 
 
 The "Void" name is inspired by "[Janet's Void](https://thegoodplace.fandom.com/wiki/The_Void)" from my favorite show *The Good Place*. Also... Sometimes I feel like screaming into the void when I post here, so there's that.
 
-While you're here, you might also want to check out my friend Léana's blog [Earth 2077](https://earth2077.fr) :)
+While you're here, you might also want to check out my friend Léana's blog [ConfusedCompiler](https://confusedcompiler.org) :)
 
 Website is powered by [Hugo](https://gohugo.io/).
 
