@@ -24,9 +24,9 @@ Website is powered by [Hugo](https://gohugo.io/).
 
 he/him | INFP
 
-A 20-something walking disaster. I code and listen to music... like, a lot. Too much, probably. I also write *slightly unserious* reviews on Goodreads occasionally.
+A 20-something person doing 20-something activities. I code and listen to music... like, a lot. Too much, probably. I also write *slightly unserious* reviews on Goodreads occasionally.
 
-Currently an undergraduate studying English and Computer Science.
+Currently a graduate student studying Linguistics.
 
 Don't click on [this little, mysterious link](https://bit.ly/3BlS71b).
 
