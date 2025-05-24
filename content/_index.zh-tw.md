@@ -7,7 +7,7 @@ draft: false
 ---
 
 <div class="hx-mb-6">
-{{< hextra/hero-badge link="https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv?si=80767cdce52e497c">}}
+{{< hextra/hero-badge link="https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv">}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
   On Repeat: Fortnight - Taylor Swift
   {{< icon name="arrow-circle-right" attributes="height=14" >}}

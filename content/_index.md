@@ -7,7 +7,7 @@ draft: false
 ---
 
 <div class="hx-mb-6">
-{{< hextra/hero-badge link="https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz?si=39047a721d1245dd">}}
+{{< hextra/hero-badge link="https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz">}}
   <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
   On Repeat: What Was That - Lorde
   {{< icon name="arrow-circle-right" attributes="height=14" >}}

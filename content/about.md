@@ -35,7 +35,7 @@ Don't click on [this little, mysterious link](https://bit.ly/3BlS71b).
 {{< cards >}}
   {{< card link="https://github.com/confusedkernel" title="GitHub" icon="github" >}}
   {{< card link="mailto:tylerlcyeh@gmail.com" title="Mail" icon="mail">}}
-  {{< card link="https://open.spotify.com/user/313yxafc6irfflnlk54g4biz6afm?si=7a45a6f0a68c4e36" title="Spotify" icon="spotify" >}}
+  {{< card link="https://open.spotify.com/user/313yxafc6irfflnlk54g4biz6afm" title="Spotify" icon="spotify" >}}
   {{< card link="https://www.goodreads.com/user/show/168667957" title="Goodreads" icon="book-open" >}}
   {{< card link="https://discord.com/users/591633476160061441" title="Discord" icon="discord" >}}
   {{< card link="http://gg.gg/teewhy-matrix-org" title="Matrix" icon="chat-alt" >}}
